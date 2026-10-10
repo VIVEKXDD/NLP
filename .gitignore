@@ -3,3 +3,7 @@ __pycache__/
 .streamlit/
 *.pyc
 .env
+.pytest_cache/
+*.pkl
+data/external/
+

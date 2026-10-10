@@ -1,0 +1,50 @@
+[
+  {
+    "id": "kb_policy_01",
+    "title": "Platform Discount & Budget Safeguards",
+    "category": "policy",
+    "content": "To prevent merchant margin erosion and anti-gambling violations, the maximum allowed discount cap is 50% for standard campaigns and 70% for clearance sales. Tier-1 grand prizes must have an allocated win probability between 5% and 15% to maintain promotional budget sustainability."
+  },
+  {
+    "id": "kb_gamification_01",
+    "title": "Spin-the-Wheel Mechanics & Prize Probability",
+    "category": "mechanics",
+    "content": "Spin-the-wheel campaigns feature 6 to 8 segments. Standard tier allocation: 1 Grand Prize (e.g. 20-30% off, 10% probability), 2 Moderate Offers (10-15% off, 35% probability), 2 Small Perks (5% off or free add-on, 45% probability), and 1 Better Luck Next Time / Consolation Voucher (10% probability). Every spin generates a unique time-sensitive redemption QR code."
+  },
+  {
+    "id": "kb_gamification_02",
+    "title": "Scratch Card Experience",
+    "category": "mechanics",
+    "content": "Digital scratch cards provide instant gratification for walk-in or nearby footfall. Users scratch on their mobile device via a localized web app (no app download required). Scratch card campaigns are ideal for retail and quick-service restaurants looking for quick impulse purchases."
+  },
+  {
+    "id": "kb_gamification_03",
+    "title": "Interactive Quizzes & Trivia",
+    "category": "mechanics",
+    "content": "Interactive quizzes consist of 2 to 3 engaging, brand or theme-relevant questions (e.g. 'Coffee trivia' or 'Style test'). Customers scoring 2/3 or higher receive tier-1 reward vouchers, while all participants get a participation perk. Perfect for cafés and boutique spaces wanting high dwell-time."
+  },
+  {
+    "id": "kb_pricing_01",
+    "title": "Self-Serve Small Merchant Pricing Tier",
+    "category": "pricing",
+    "content": "The Self-Serve tier is zero-commission for basic campaigns with up to 500 game plays per month. Above 500 plays, merchants pay a flat pay-per-verified-footfall fee ($0.10 or Rs 8 per redeemed voucher), ensuring marketing cost only applies when a paying customer enters the store."
+  },
+  {
+    "id": "kb_onboarding_01",
+    "title": "Campaign Live Turnaround Time",
+    "category": "operations",
+    "content": "Self-serve campaigns verified by the AI Copilot rule-engine are deployed instantaneously to the local digital beacon and QR code standee network. Turnaround time is under 3 minutes with zero human intervention required."
+  },
+  {
+    "id": "kb_validation_01",
+    "title": "Business Constraint Validation Rules",
+    "category": "rules",
+    "content": "Rule 1: Discount limit cannot be zero or negative. Rule 2: Campaign duration defaults to 14 days unless specified (max 30 days). Rule 3: Target audience must be identified to generate optimized creative copy. Rule 4: Generated spin outcomes must strictly never exceed the merchant's declared maximum discount."
+  },
+  {
+    "id": "kb_redemption_01",
+    "title": "In-Store Voucher Redemption & Anti-Fraud",
+    "category": "security",
+    "content": "Each digital winning coupon carries a single-use OTP or scan-to-burn dynamic QR code with a 24-hour expiration window. Customers can only play once per mobile number every 24 hours to prevent exploitation."
+  }
+]
